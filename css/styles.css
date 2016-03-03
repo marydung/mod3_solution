@@ -1,0 +1,16 @@
+p.menu_item_description {
+	background-color: #A9BCF5
+}
+#dropdown_menu {
+	/*background-color: #f6b319;*/
+  border-radius: 0;
+  border: 1;
+
+}
+.navbar-nav li {
+	border:solid;
+}
+.navbar-nav li:nth-child(2) {
+	border-bottom: transparent;
+	border-top: transparent;
+}
